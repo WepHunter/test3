@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 70vmin;
   pointer-events: none;
 }
 
@@ -14,8 +14,8 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: calc(15px + 2vmin);
+  color: rgb(133, 85, 85);
 }
 
 .App-link {
@@ -23,7 +23,7 @@
 }
 
 .heart {
-  color: #ff0000;
+  color: #ffbb00;
 }
 
 .small {
